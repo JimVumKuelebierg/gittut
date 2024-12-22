@@ -1,3 +1,6 @@
 Main Text
 
 string temp = "Hello";
+def print() = {
+  println(tmp)
+}
