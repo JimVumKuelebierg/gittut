@@ -5,3 +5,4 @@ string temp = "Hello";
 def print() = {
   println(tmp2)
 }
+Hello Papa
